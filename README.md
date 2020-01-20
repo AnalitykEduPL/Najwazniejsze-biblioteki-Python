@@ -1,0 +1,2 @@
+# biblioteki
+Najważniejsze biblioteki Python
