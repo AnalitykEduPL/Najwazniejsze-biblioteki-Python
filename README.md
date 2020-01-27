@@ -2,9 +2,9 @@
 # [Analityk.edu.pl](https://analityk.edu.pl/)
 
 
-### Zastaw Jupyter Notebook, demostrujących działanie najważniejszych bibliotek Python
-### Doskonale nadający się do ich nauki 
-### Dodatkowo, wszystkie artykuły opisujęce ich działanie, znajdują się na stronach AnalitykEduPl
+Zastaw Jupyter Notebook, demostrujących działanie najważniejszych bibliotek Python
+Doskonale nadający się do ich nauki 
+Dodatkowo, wszystkie artykuły opisujęce ich działanie, znajdują się na stronach AnalitykEduPl
 
 
 ## Instalacja oraz uruchomienie
