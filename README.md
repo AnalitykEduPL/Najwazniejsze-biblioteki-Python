@@ -1,5 +1,5 @@
 # Najważniejsze biblioteki Python
-# [Analityk.edu.pl](https://analityk.edu.pl/)
+[Analityk.edu.pl](https://analityk.edu.pl/)
 
 
 Zastaw Jupyter Notebook, demostrujących działanie najważniejszych bibliotek Python
