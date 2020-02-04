@@ -24,3 +24,6 @@ Genialna biblioteka do manipulacji danymi. Pozwala na wczytywanie danych, przegl
 
 Rewelacyjna biblioteka do tworzenia atrakcyjnych wykresów, w szybki i łatwy sposób. Doskonale współpracuje z Pandas oraz Matplotlib. Artykuł opisujący jej działanie, znajduje sie na stronach analityka. [Python Seaborn](http://analityk.edu.pl/seaborn-eleganckie-wykresy-w-python/) - eleganckie wykresy w Python.
 
+## [Requests](http://analityk.edu.pl/python-requests-biblioteka-do-wykonywania-zapytan-http/)
+
+Prosta i efektywna biblioteka, do wykonywania zapytań HTTP. Bardzo dobra, do web scrapingu oraz komunikacji z API opartymi o HTTP. Jak REST. Artykuł opisujący jej działanie, znajduje się na stronie analityka.
